@@ -1,0 +1,7 @@
+.gitattributes
+sparsity_c/
+.idea/
+.git/
+examples/
+example.py
+run.sh
